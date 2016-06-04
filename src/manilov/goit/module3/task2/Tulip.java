@@ -1,4 +1,4 @@
-package manilov.goit.module3;
+package manilov.goit.module3.task2;
 
 import manilov.goit.module3.Flover;
 
