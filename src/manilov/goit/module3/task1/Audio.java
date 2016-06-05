@@ -1,7 +1,7 @@
-package manlov.goiti.module3.task1;
+package manilov.goit.module3.task1;
 
 /**
- * Created by md093 on 05.06.16.
+ * Created by md093 on 06.06.16.
  */
 public class Audio extends File {
 }

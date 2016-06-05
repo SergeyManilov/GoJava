@@ -1,3 +1,5 @@
 # folder
 .idea/*
-
+*.iml
+out/*
+practical/*
